@@ -16,7 +16,7 @@
 
 
 cc_library {
-    name: "libgptutils.renoir",
+    name: "libgptutils.ONEPLUSN200-TMO",
     vendor: true,
     recovery_available: true,
     shared_libs: [
